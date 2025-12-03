@@ -60,7 +60,3 @@ This project is inspired by and references the curriculum from **Datawhale**:
 - **Vector DB:** (Mention your DB here, e.g., Chroma / FAISS)
 - **Crawler:** Selenium
 - **UI:** Gradio
-
-## 📝 License
-
-[MIT](LICENSE)
